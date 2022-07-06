@@ -1,0 +1,9 @@
+[submodule "hugo-developer-portfolio"]
+	path = hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "cheina97/themes/hugo-developer-portfolio"]
+	path = cheina97/themes/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
+[submodule "themes/hugo-developer-portfolio"]
+	path = themes/hugo-developer-portfolio
+	url = https://github.com/samrobbins85/hugo-developer-portfolio
